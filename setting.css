@@ -1,0 +1,52 @@
+.c_ {
+    background-color: powderblue;
+    text-align: center;
+    border-radius: 2%;
+    padding: 100px;
+    margin: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+.add {
+    position: absolute;
+    bottom: 220px;
+    right: 540px;
+}
+
+body {
+    background: linear-gradient(to right, gray,blue)
+}
+
+div.card {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.ban {
+    background-image: url("img/Yellow\ Illustrated\ Student\ Canvas\ Banner.png");
+    background-repeat: no-repeat;
+    background-position:top;
+    margin-right: 20px;
+    padding: 50px;
+
+}
+
+.sha {
+    text-shadow: 4px 4px 7px green;
+    color: #88F22B ;
+}
+.cgf {
+    color: #ff6d5f ;
+    text-shadow: 2px 2px 5px red;
+}
+h5 {
+    color: red;
+}
+
+.cg {
+    color: skyblue;
+    text-shadow: 2px 2px 5px blue;
+}
